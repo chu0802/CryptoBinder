@@ -1,0 +1,7 @@
+kd_interval: 9
+kd_ratio: 2
+kd_blur_sigma: 1
+
+feature_length: 48
+label_blur_sigma: 10
+label_interval: 48
